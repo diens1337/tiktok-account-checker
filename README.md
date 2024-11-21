@@ -8,6 +8,8 @@ Finally released, 21 November 2024
 
 ✨ Features You’ll Love:
 
+⚡ Telegram Bot Alerts
+
 🏆 OG Names Capture: Automatically detect rare, original usernames for maximum flex!
 
 
